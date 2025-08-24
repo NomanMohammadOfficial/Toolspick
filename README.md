@@ -1,2 +1,3 @@
 # Toolspick
-starter
+
+toolspick is a directory of useful tools and resources.
