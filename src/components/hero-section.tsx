@@ -120,7 +120,7 @@ export default function HeroSection() {
                                     delay={0.5}
                                     as="p"
                                     className="mx-auto mt-8 max-w-2xl text-balance text-lg">
-                                    Discover, compare, and choose from the world’s largest directory of AI tools, SaaS products, and their alternatives. Save time and boost productivity with the right tools.
+                                    Discover, compare, and choose from the world’s largest directory of AI tools, SaaS products, and their alternatives.
                                 </TextEffect>
 
                                 <AnimatedGroup
